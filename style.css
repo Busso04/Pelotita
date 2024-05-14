@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+#lienzo {
+  background-color: #a1a1a1;
+  width: 100%;
+  height: 100vh;
+}
